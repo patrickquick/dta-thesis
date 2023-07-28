@@ -1,0 +1,248 @@
+<root>
+  <letter letter_id="SB_J_917">
+    <word word_id="SB_J_917.0.0">917.</word>
+    <word word_id="SB_J_917.0.1" NAME="B">JOHN</word>
+    <word word_id="SB_J_917.0.2" NAME="I">JOHNSON</word>
+    <word word_id="SB_J_917.0.3">TO</word>
+    <word word_id="SB_J_917.0.4" NAME="B">MRS.</word>
+    <word word_id="SB_J_917.0.5" NAME="I">SAUNDERS</word>
+    <word word_id="SB_J_917.1.0"/>
+    <word word_id="SB_J_917.2.0">To</word>
+    <word word_id="SB_J_917.2.1" VARD_fscore_0.1_threshold_0="Mistress" VARD_fscore_0.1_threshold_25="Mistress" VARD_fscore_0.1_threshold_50="Mistress" VARD_fscore_0.5_threshold_0="Mistress" VARD_fscore_0.5_threshold_25="Mistress" VARD_fscore_0.5_threshold_50="Mistress" VARD_fscore_0.5_threshold_75="Mistress" VARD_fscore_1.0_threshold_0="Mistress" VARD_fscore_1.0_threshold_25="Mistress" VARD_fscore_1.0_threshold_50="Mistress" VARD_fscore_2.0_threshold_0="Mistress" VARD_fscore_2.0_threshold_25="Mistress" VARD_fscore_2.0_threshold_50="Mistress" VARD_fscore_2.0_threshold_75="Mistress" NAME="B">Mistris</word>
+    <word word_id="SB_J_917.2.2" NAME="I">Saunders</word>
+    <word word_id="SB_J_917.3.0">of</word>
+    <word word_id="SB_J_917.3.1" VARD_fscore_0.1_threshold_0="Orangutan." VARD_fscore_0.5_threshold_0="Orangutan." VARD_fscore_0.5_threshold_25="Orangutan." VARD_fscore_1.0_threshold_0="Orangutan." VARD_fscore_2.0_threshold_0="Orangutan." VARD_fscore_2.0_threshold_25="Orangutan." LOCATION="B">Harrington.</word>
+    <word word_id="SB_J_917.4.0" VARD_fscore_0.1_threshold_0="Las" VARD_fscore_0.5_threshold_0="Las" VARD_fscore_0.5_threshold_25="Las" VARD_fscore_0.5_threshold_50="Las" VARD_fscore_1.0_threshold_0="Las" VARD_fscore_2.0_threshold_0="Las" VARD_fscore_2.0_threshold_25="Las">Laus</word>
+    <word word_id="SB_J_917.4.1" VARD_fscore_0.1_threshold_0="Too." VARD_fscore_0.1_threshold_25="Too." VARD_fscore_0.5_threshold_0="Do." VARD_fscore_0.5_threshold_25="Do." VARD_fscore_0.5_threshold_50="Do." VARD_fscore_1.0_threshold_0="Too." VARD_fscore_1.0_threshold_25="Too." VARD_fscore_2.0_threshold_0="Do." VARD_fscore_2.0_threshold_25="Do." GOD="B">Deo.</word>
+    <word word_id="SB_J_917.5.0" VARD_fscore_0.1_threshold_0="Annoy" VARD_fscore_0.5_threshold_0="Annoy" VARD_fscore_1.0_threshold_0="Annoy" VARD_fscore_2.0_threshold_0="Annoy">Anno</word>
+    <word word_id="SB_J_917.5.1" DATE="B">1552,</word>
+    <word word_id="SB_J_917.5.2" DATE="B">the</word>
+    <word word_id="SB_J_917.5.3" DATE="I">xxjth</word>
+    <word word_id="SB_J_917.5.4" VARD_fscore_0.1_threshold_0="day" VARD_fscore_0.1_threshold_25="day" VARD_fscore_0.1_threshold_50="day" VARD_fscore_0.5_threshold_0="day" VARD_fscore_0.5_threshold_25="day" VARD_fscore_0.5_threshold_50="day" VARD_fscore_0.5_threshold_75="day" VARD_fscore_1.0_threshold_0="day" VARD_fscore_1.0_threshold_25="day" VARD_fscore_1.0_threshold_50="day" VARD_fscore_2.0_threshold_0="day" VARD_fscore_2.0_threshold_25="day" VARD_fscore_2.0_threshold_50="day" VARD_fscore_2.0_threshold_75="day" DATE="I">daie</word>
+    <word word_id="SB_J_917.5.5" DATE="I">of</word>
+    <word word_id="SB_J_917.5.6" VARD_fscore_0.1_threshold_0="February," VARD_fscore_0.1_threshold_25="February," VARD_fscore_0.1_threshold_50="February," VARD_fscore_0.5_threshold_0="February," VARD_fscore_0.5_threshold_25="February," VARD_fscore_0.5_threshold_50="February," VARD_fscore_1.0_threshold_0="February," VARD_fscore_1.0_threshold_25="February," VARD_fscore_1.0_threshold_50="February," VARD_fscore_2.0_threshold_0="February," VARD_fscore_2.0_threshold_25="February," VARD_fscore_2.0_threshold_50="February," DATE="I">Feabruarie,</word>
+    <word word_id="SB_J_917.5.7">at</word>
+    <word word_id="SB_J_917.5.8" LOCATION="B">Glapthorne.</word>
+    <word word_id="SB_J_917.6.0"/>
+    <word word_id="SB_J_917.7.0">After</word>
+    <word word_id="SB_J_917.7.1" VARD_fscore_0.1_threshold_0="hearty" VARD_fscore_0.1_threshold_25="hearty" VARD_fscore_0.5_threshold_0="hearty" VARD_fscore_0.5_threshold_25="hearty" VARD_fscore_0.5_threshold_50="hearty" VARD_fscore_1.0_threshold_0="hearty" VARD_fscore_1.0_threshold_25="hearty" VARD_fscore_2.0_threshold_0="hearty" VARD_fscore_2.0_threshold_25="hearty">hertie</word>
+    <word word_id="SB_J_917.7.2" VARD_fscore_0.1_threshold_0="commendations" VARD_fscore_0.1_threshold_25="commendations" VARD_fscore_0.1_threshold_50="commendations" VARD_fscore_0.5_threshold_0="commendations" VARD_fscore_0.5_threshold_25="commendations" VARD_fscore_0.5_threshold_50="commendations" VARD_fscore_1.0_threshold_0="commendations" VARD_fscore_1.0_threshold_25="commendations" VARD_fscore_1.0_threshold_50="commendations" VARD_fscore_2.0_threshold_0="commendations" VARD_fscore_2.0_threshold_25="commendations" VARD_fscore_2.0_threshold_50="commendations">comendations</word>
+    <word word_id="SB_J_917.7.3">unto</word>
+    <word word_id="SB_J_917.7.4">you,</word>
+    <word word_id="SB_J_917.7.5">with</word>
+    <word word_id="SB_J_917.7.6">the</word>
+    <word word_id="SB_J_917.7.7" VARD_fscore_0.1_threshold_0="like" VARD_fscore_0.1_threshold_25="like" VARD_fscore_0.1_threshold_50="like" VARD_fscore_0.5_threshold_0="like" VARD_fscore_0.5_threshold_25="like" VARD_fscore_0.5_threshold_50="like" VARD_fscore_0.5_threshold_75="like" VARD_fscore_1.0_threshold_0="like" VARD_fscore_1.0_threshold_25="like" VARD_fscore_1.0_threshold_50="like" VARD_fscore_2.0_threshold_0="like" VARD_fscore_2.0_threshold_25="like" VARD_fscore_2.0_threshold_50="like" VARD_fscore_2.0_threshold_75="like">lyke</word>
+    <word word_id="SB_J_917.7.8">from</word>
+    <word word_id="SB_J_917.7.9">my</word>
+    <word word_id="SB_J_917.7.10" VARD_fscore_0.1_threshold_0="wife," VARD_fscore_0.1_threshold_25="wife," VARD_fscore_0.1_threshold_50="wife," VARD_fscore_0.5_threshold_0="wife," VARD_fscore_0.5_threshold_25="wife," VARD_fscore_0.5_threshold_50="wife," VARD_fscore_1.0_threshold_0="wife," VARD_fscore_1.0_threshold_25="wife," VARD_fscore_1.0_threshold_50="wife," VARD_fscore_2.0_threshold_0="wife," VARD_fscore_2.0_threshold_25="wife," VARD_fscore_2.0_threshold_50="wife,">wif,</word>
+    <word word_id="SB_J_917.7.11">I</word>
+    <word word_id="SB_J_917.7.12">am</word>
+    <word word_id="SB_J_917.7.13" VARD_fscore_0.1_threshold_0="much" VARD_fscore_0.1_threshold_25="much" VARD_fscore_0.1_threshold_50="much" VARD_fscore_0.5_threshold_0="much" VARD_fscore_0.5_threshold_25="much" VARD_fscore_0.5_threshold_50="much" VARD_fscore_0.5_threshold_75="much" VARD_fscore_1.0_threshold_0="much" VARD_fscore_1.0_threshold_25="much" VARD_fscore_1.0_threshold_50="much" VARD_fscore_2.0_threshold_0="much" VARD_fscore_2.0_threshold_25="much" VARD_fscore_2.0_threshold_50="much" VARD_fscore_2.0_threshold_75="much">moche</word>
+    <word word_id="SB_J_917.7.14">beholding</word>
+    <word word_id="SB_J_917.7.15">unto</word>
+    <word word_id="SB_J_917.7.16" VARD_fscore_0.1_threshold_0="you" VARD_fscore_0.1_threshold_25="you" VARD_fscore_0.1_threshold_50="you" VARD_fscore_0.5_threshold_0="you" VARD_fscore_0.5_threshold_25="you" VARD_fscore_0.5_threshold_50="you" VARD_fscore_0.5_threshold_75="you" VARD_fscore_1.0_threshold_0="you" VARD_fscore_1.0_threshold_25="you" VARD_fscore_1.0_threshold_50="you" VARD_fscore_2.0_threshold_0="you" VARD_fscore_2.0_threshold_25="you" VARD_fscore_2.0_threshold_50="you" VARD_fscore_2.0_threshold_75="you">yow</word>
+    <word word_id="SB_J_917.7.17">in</word>
+    <word word_id="SB_J_917.7.18">that</word>
+    <word word_id="SB_J_917.7.19">ye</word>
+    <word word_id="SB_J_917.7.20">have</word>
+    <word word_id="SB_J_917.7.21" VARD_fscore_0.1_threshold_0="hitherto" VARD_fscore_0.1_threshold_25="hitherto" VARD_fscore_0.1_threshold_50="hitherto" VARD_fscore_0.5_threshold_0="hitherto" VARD_fscore_0.5_threshold_25="hitherto" VARD_fscore_0.5_threshold_50="hitherto" VARD_fscore_0.5_threshold_75="hitherto" VARD_fscore_1.0_threshold_0="hitherto" VARD_fscore_1.0_threshold_25="hitherto" VARD_fscore_1.0_threshold_50="hitherto" VARD_fscore_2.0_threshold_0="hitherto" VARD_fscore_2.0_threshold_25="hitherto" VARD_fscore_2.0_threshold_50="hitherto" VARD_fscore_2.0_threshold_75="hitherto">hetherto</word>
+    <word word_id="SB_J_917.7.22" VARD_fscore_0.1_threshold_0="forborne" VARD_fscore_0.1_threshold_25="forborne" VARD_fscore_0.5_threshold_0="forborne" VARD_fscore_0.5_threshold_25="forborne" VARD_fscore_1.0_threshold_0="forborne" VARD_fscore_1.0_threshold_25="forborne" VARD_fscore_2.0_threshold_0="forborne" VARD_fscore_2.0_threshold_25="forborne">forboerne</word>
+    <word word_id="SB_J_917.7.23">my</word>
+    <word word_id="SB_J_917.7.24">brother</word>
+    <word word_id="SB_J_917.7.25" VARD_fscore_0.1_threshold_0="Ambrosia" VARD_fscore_0.5_threshold_0="Ambrosia" VARD_fscore_1.0_threshold_0="Ambrosia" VARD_fscore_2.0_threshold_0="Ambrosia" NAME="B">Ambrose</word>
+    <word word_id="SB_J_917.7.26" NAME="I">Saunders</word>
+    <word word_id="SB_J_917.7.27">and</word>
+    <word word_id="SB_J_917.7.28">me</word>
+    <word word_id="SB_J_917.7.29">of</word>
+    <word word_id="SB_J_917.7.30">that</word>
+    <word word_id="SB_J_917.7.31">which</word>
+    <word word_id="SB_J_917.7.32">we</word>
+    <word word_id="SB_J_917.7.33">owe</word>
+    <word word_id="SB_J_917.7.34">you</word>
+    <word word_id="SB_J_917.7.35">for</word>
+    <word word_id="SB_J_917.7.36">our</word>
+    <word word_id="SB_J_917.7.37">bill,</word>
+    <word word_id="SB_J_917.7.38" VARD_fscore_0.1_threshold_0="payable" VARD_fscore_0.5_threshold_0="payable" VARD_fscore_0.5_threshold_25="payable" VARD_fscore_1.0_threshold_0="payable" VARD_fscore_2.0_threshold_0="payable">paieable</word>
+    <word word_id="SB_J_917.7.39">at</word>
+    <word word_id="SB_J_917.7.40" VARD_fscore_0.1_threshold_0="christmas" VARD_fscore_0.5_threshold_0="christmas" VARD_fscore_0.5_threshold_25="christmas" VARD_fscore_1.0_threshold_0="christmas" VARD_fscore_2.0_threshold_0="christmas" DATE="B">christemes</word>
+    <word word_id="SB_J_917.7.41" DATE="I">last,</word>
+    <word word_id="SB_J_917.7.42">being</word>
+    <word word_id="SB_J_917.7.43" VARD_fscore_0.1_threshold_0="very" VARD_fscore_0.1_threshold_25="very" VARD_fscore_0.1_threshold_50="very" VARD_fscore_0.5_threshold_0="very" VARD_fscore_0.5_threshold_25="very" VARD_fscore_0.5_threshold_50="very" VARD_fscore_1.0_threshold_0="very" VARD_fscore_1.0_threshold_25="very" VARD_fscore_1.0_threshold_50="very" VARD_fscore_2.0_threshold_0="very" VARD_fscore_2.0_threshold_25="very" VARD_fscore_2.0_threshold_50="very">veary</word>
+    <word word_id="SB_J_917.7.44" VARD_fscore_0.1_threshold_0="willing" VARD_fscore_0.1_threshold_25="willing" VARD_fscore_0.1_threshold_50="willing" VARD_fscore_0.5_threshold_0="willing" VARD_fscore_0.5_threshold_25="willing" VARD_fscore_0.5_threshold_50="willing" VARD_fscore_0.5_threshold_75="willing" VARD_fscore_1.0_threshold_0="willing" VARD_fscore_1.0_threshold_25="willing" VARD_fscore_1.0_threshold_50="willing" VARD_fscore_2.0_threshold_0="willing" VARD_fscore_2.0_threshold_25="willing" VARD_fscore_2.0_threshold_50="willing" VARD_fscore_2.0_threshold_75="willing">willynge</word>
+    <word word_id="SB_J_917.7.45">to</word>
+    <word word_id="SB_J_917.7.46" VARD_fscore_0.1_threshold_0="recompense" VARD_fscore_0.1_threshold_25="recompense" VARD_fscore_0.1_threshold_50="recompense" VARD_fscore_0.5_threshold_0="recompense" VARD_fscore_0.5_threshold_25="recompense" VARD_fscore_0.5_threshold_50="recompense" VARD_fscore_0.5_threshold_75="recompense" VARD_fscore_1.0_threshold_0="recompense" VARD_fscore_1.0_threshold_25="recompense" VARD_fscore_1.0_threshold_50="recompense" VARD_fscore_2.0_threshold_0="recompense" VARD_fscore_2.0_threshold_25="recompense" VARD_fscore_2.0_threshold_50="recompense" VARD_fscore_2.0_threshold_75="recompense">recompence</word>
+    <word word_id="SB_J_917.7.47">you</word>
+    <word word_id="SB_J_917.7.48">with</word>
+    <word word_id="SB_J_917.7.49" VARD_fscore_0.1_threshold_0="any" VARD_fscore_0.1_threshold_25="any" VARD_fscore_0.5_threshold_0="any" VARD_fscore_0.5_threshold_25="any" VARD_fscore_0.5_threshold_50="any" VARD_fscore_1.0_threshold_0="any" VARD_fscore_1.0_threshold_25="any" VARD_fscore_2.0_threshold_0="any" VARD_fscore_2.0_threshold_25="any" VARD_fscore_2.0_threshold_50="any">anny</word>
+    <word word_id="SB_J_917.7.50">pleasure</word>
+    <word word_id="SB_J_917.7.51">I</word>
+    <word word_id="SB_J_917.7.52" VARD_fscore_0.1_threshold_0="may" VARD_fscore_0.1_threshold_25="may" VARD_fscore_0.1_threshold_50="may" VARD_fscore_0.5_threshold_0="may" VARD_fscore_0.5_threshold_25="may" VARD_fscore_0.5_threshold_50="may" VARD_fscore_0.5_threshold_75="may" VARD_fscore_1.0_threshold_0="may" VARD_fscore_1.0_threshold_25="may" VARD_fscore_1.0_threshold_50="may" VARD_fscore_2.0_threshold_0="may" VARD_fscore_2.0_threshold_25="may" VARD_fscore_2.0_threshold_50="may" VARD_fscore_2.0_threshold_75="may">maie</word>
+    <word word_id="SB_J_917.7.53">do</word>
+    <word word_id="SB_J_917.7.54">you</word>
+    <word word_id="SB_J_917.7.55">at</word>
+    <word word_id="SB_J_917.7.56" VARD_fscore_0.1_threshold_0="any" VARD_fscore_0.1_threshold_25="any" VARD_fscore_0.5_threshold_0="any" VARD_fscore_0.5_threshold_25="any" VARD_fscore_0.5_threshold_50="any" VARD_fscore_1.0_threshold_0="any" VARD_fscore_1.0_threshold_25="any" VARD_fscore_2.0_threshold_0="any" VARD_fscore_2.0_threshold_25="any" VARD_fscore_2.0_threshold_50="any">anny</word>
+    <word word_id="SB_J_917.7.57" VARD_fscore_0.1_threshold_0="time;" VARD_fscore_0.1_threshold_25="time;" VARD_fscore_0.1_threshold_50="time;" VARD_fscore_0.5_threshold_0="time;" VARD_fscore_0.5_threshold_25="time;" VARD_fscore_0.5_threshold_50="time;" VARD_fscore_0.5_threshold_75="time;" VARD_fscore_1.0_threshold_0="time;" VARD_fscore_1.0_threshold_25="time;" VARD_fscore_1.0_threshold_50="time;" VARD_fscore_2.0_threshold_0="time;" VARD_fscore_2.0_threshold_25="time;" VARD_fscore_2.0_threshold_50="time;" VARD_fscore_2.0_threshold_75="time;">tyme;</word>
+    <word word_id="SB_J_917.7.58">for</word>
+    <word word_id="SB_J_917.7.59" VARD_fscore_0.1_threshold_0="though" VARD_fscore_0.1_threshold_25="though" VARD_fscore_0.1_threshold_50="though" VARD_fscore_0.5_threshold_0="though" VARD_fscore_0.5_threshold_25="though" VARD_fscore_0.5_threshold_50="though" VARD_fscore_0.5_threshold_75="though" VARD_fscore_1.0_threshold_0="though" VARD_fscore_1.0_threshold_25="though" VARD_fscore_1.0_threshold_50="though" VARD_fscore_2.0_threshold_0="though" VARD_fscore_2.0_threshold_25="though" VARD_fscore_2.0_threshold_50="though" VARD_fscore_2.0_threshold_75="though">thoughe</word>
+    <word word_id="SB_J_917.7.60">the</word>
+    <word word_id="SB_J_917.7.61">fall</word>
+    <word word_id="SB_J_917.7.62">of</word>
+    <word word_id="SB_J_917.7.63">the</word>
+    <word word_id="SB_J_917.7.64" VARD_fscore_0.1_threshold_0="money" VARD_fscore_0.1_threshold_25="money" VARD_fscore_0.1_threshold_50="money" VARD_fscore_0.5_threshold_0="money" VARD_fscore_0.5_threshold_25="money" VARD_fscore_0.5_threshold_50="money" VARD_fscore_1.0_threshold_0="money" VARD_fscore_1.0_threshold_25="money" VARD_fscore_1.0_threshold_50="money" VARD_fscore_2.0_threshold_0="money" VARD_fscore_2.0_threshold_25="money" VARD_fscore_2.0_threshold_50="money">monney</word>
+    <word word_id="SB_J_917.7.65">was</word>
+    <word word_id="SB_J_917.7.66">great</word>
+    <word word_id="SB_J_917.7.67" VARD_fscore_0.1_threshold_0="loss" VARD_fscore_0.1_threshold_25="loss" VARD_fscore_0.1_threshold_50="loss" VARD_fscore_0.5_threshold_0="loss" VARD_fscore_0.5_threshold_25="loss" VARD_fscore_0.5_threshold_50="loss" VARD_fscore_0.5_threshold_75="loss" VARD_fscore_1.0_threshold_0="loss" VARD_fscore_1.0_threshold_25="loss" VARD_fscore_1.0_threshold_50="loss" VARD_fscore_2.0_threshold_0="loss" VARD_fscore_2.0_threshold_25="loss" VARD_fscore_2.0_threshold_50="loss" VARD_fscore_2.0_threshold_75="loss">losse</word>
+    <word word_id="SB_J_917.7.68">unto</word>
+    <word word_id="SB_J_917.7.69">us</word>
+    <word word_id="SB_J_917.7.70">in</word>
+    <word word_id="SB_J_917.7.71">the</word>
+    <word word_id="SB_J_917.7.72" VARD_fscore_0.1_threshold_0="bargain" VARD_fscore_0.1_threshold_25="bargain" VARD_fscore_0.1_threshold_50="bargain" VARD_fscore_0.5_threshold_0="bargain" VARD_fscore_0.5_threshold_25="bargain" VARD_fscore_0.5_threshold_50="bargain" VARD_fscore_0.5_threshold_75="bargain" VARD_fscore_1.0_threshold_0="bargain" VARD_fscore_1.0_threshold_25="bargain" VARD_fscore_1.0_threshold_50="bargain" VARD_fscore_2.0_threshold_0="bargain" VARD_fscore_2.0_threshold_25="bargain" VARD_fscore_2.0_threshold_50="bargain" VARD_fscore_2.0_threshold_75="bargain">bargaine</word>
+    <word word_id="SB_J_917.7.73">of</word>
+    <word word_id="SB_J_917.7.74">wall</word>
+    <word word_id="SB_J_917.7.75">we</word>
+    <word word_id="SB_J_917.7.76">had</word>
+    <word word_id="SB_J_917.7.77">of</word>
+    <word word_id="SB_J_917.7.78">you,</word>
+    <word word_id="SB_J_917.7.79">yet</word>
+    <word word_id="SB_J_917.7.80">your</word>
+    <word word_id="SB_J_917.7.81">gentle</word>
+    <word word_id="SB_J_917.7.82" VARD_fscore_0.1_threshold_0="forbearing" VARD_fscore_0.1_threshold_25="forbearing" VARD_fscore_0.5_threshold_0="forbearing" VARD_fscore_0.5_threshold_25="forbearing" VARD_fscore_1.0_threshold_0="forbearing" VARD_fscore_1.0_threshold_25="forbearing" VARD_fscore_2.0_threshold_0="forbearing" VARD_fscore_2.0_threshold_25="forbearing">forpearinge</word>
+    <word word_id="SB_J_917.7.83">is</word>
+    <word word_id="SB_J_917.7.84">not</word>
+    <word word_id="SB_J_917.7.85" VARD_fscore_0.1_threshold_0="unconsidered," VARD_fscore_0.5_threshold_0="unconsidered," VARD_fscore_0.5_threshold_25="unconsidered," VARD_fscore_1.0_threshold_0="unconsidered," VARD_fscore_2.0_threshold_0="unconsidered,">unconsidred,</word>
+    <word word_id="SB_J_917.7.86">for</word>
+    <word word_id="SB_J_917.7.87">it</word>
+    <word word_id="SB_J_917.7.88">it</word>
+    <word word_id="SB_J_917.7.89">please</word>
+    <word word_id="SB_J_917.7.90">you</word>
+    <word word_id="SB_J_917.7.91">to</word>
+    <word word_id="SB_J_917.7.92">send</word>
+    <word word_id="SB_J_917.7.93">me</word>
+    <word word_id="SB_J_917.7.94">word</word>
+    <word word_id="SB_J_917.7.95">when</word>
+    <word word_id="SB_J_917.7.96">ye</word>
+    <word word_id="SB_J_917.7.97">must</word>
+    <word word_id="SB_J_917.7.98" VARD_fscore_0.1_threshold_0="occupy" VARD_fscore_0.1_threshold_25="occupy" VARD_fscore_0.1_threshold_50="occupy" VARD_fscore_0.5_threshold_0="occupy" VARD_fscore_0.5_threshold_25="occupy" VARD_fscore_0.5_threshold_50="occupy" VARD_fscore_0.5_threshold_75="occupy" VARD_fscore_1.0_threshold_0="occupy" VARD_fscore_1.0_threshold_25="occupy" VARD_fscore_1.0_threshold_50="occupy" VARD_fscore_2.0_threshold_0="occupy" VARD_fscore_2.0_threshold_25="occupy" VARD_fscore_2.0_threshold_50="occupy" VARD_fscore_2.0_threshold_75="occupy">occupie</word>
+    <word word_id="SB_J_917.7.99">your</word>
+    <word word_id="SB_J_917.7.100" VARD_fscore_0.1_threshold_0="money," VARD_fscore_0.1_threshold_25="money," VARD_fscore_0.1_threshold_50="money," VARD_fscore_0.5_threshold_0="money," VARD_fscore_0.5_threshold_25="money," VARD_fscore_0.5_threshold_50="money," VARD_fscore_1.0_threshold_0="money," VARD_fscore_1.0_threshold_25="money," VARD_fscore_1.0_threshold_50="money," VARD_fscore_2.0_threshold_0="money," VARD_fscore_2.0_threshold_25="money," VARD_fscore_2.0_threshold_50="money,">monney,</word>
+    <word word_id="SB_J_917.7.101" VARD_fscore_0.1_threshold_0="though" VARD_fscore_0.1_threshold_25="though" VARD_fscore_0.1_threshold_50="though" VARD_fscore_0.5_threshold_0="though" VARD_fscore_0.5_threshold_25="though" VARD_fscore_0.5_threshold_50="though" VARD_fscore_0.5_threshold_75="though" VARD_fscore_1.0_threshold_0="though" VARD_fscore_1.0_threshold_25="though" VARD_fscore_1.0_threshold_50="though" VARD_fscore_2.0_threshold_0="though" VARD_fscore_2.0_threshold_25="though" VARD_fscore_2.0_threshold_50="though" VARD_fscore_2.0_threshold_75="though">thoughe</word>
+    <word word_id="SB_J_917.7.102">I</word>
+    <word word_id="SB_J_917.7.103">be</word>
+    <word word_id="SB_J_917.7.104">not</word>
+    <word word_id="SB_J_917.7.105">well</word>
+    <word word_id="SB_J_917.7.106" VARD_fscore_0.1_threshold_0="furnished," VARD_fscore_0.1_threshold_25="furnished," VARD_fscore_0.1_threshold_50="furnished," VARD_fscore_0.5_threshold_0="furnished," VARD_fscore_0.5_threshold_25="furnished," VARD_fscore_0.5_threshold_50="furnished," VARD_fscore_1.0_threshold_0="furnished," VARD_fscore_1.0_threshold_25="furnished," VARD_fscore_1.0_threshold_50="furnished," VARD_fscore_2.0_threshold_0="furnished," VARD_fscore_2.0_threshold_25="furnished," VARD_fscore_2.0_threshold_50="furnished,">furneshed,</word>
+    <word word_id="SB_J_917.7.107">yet</word>
+    <word word_id="SB_J_917.7.108">I</word>
+    <word word_id="SB_J_917.7.109">will</word>
+    <word word_id="SB_J_917.7.110">make</word>
+    <word word_id="SB_J_917.7.111">provision</word>
+    <word word_id="SB_J_917.7.112">for</word>
+    <word word_id="SB_J_917.7.113">you</word>
+    <word word_id="SB_J_917.7.114">against</word>
+    <word word_id="SB_J_917.7.115">the</word>
+    <word word_id="SB_J_917.7.116" VARD_fscore_0.1_threshold_0="time" VARD_fscore_0.1_threshold_25="time" VARD_fscore_0.1_threshold_50="time" VARD_fscore_0.5_threshold_0="time" VARD_fscore_0.5_threshold_25="time" VARD_fscore_0.5_threshold_50="time" VARD_fscore_0.5_threshold_75="time" VARD_fscore_1.0_threshold_0="time" VARD_fscore_1.0_threshold_25="time" VARD_fscore_1.0_threshold_50="time" VARD_fscore_2.0_threshold_0="time" VARD_fscore_2.0_threshold_25="time" VARD_fscore_2.0_threshold_50="time" VARD_fscore_2.0_threshold_75="time">tyme</word>
+    <word word_id="SB_J_917.7.117">ye</word>
+    <word word_id="SB_J_917.7.118">please</word>
+    <word word_id="SB_J_917.7.119">to</word>
+    <word word_id="SB_J_917.7.120">have</word>
+    <word word_id="SB_J_917.7.121">it.</word>
+    <word word_id="SB_J_917.7.122">But</word>
+    <word word_id="SB_J_917.7.123">if</word>
+    <word word_id="SB_J_917.7.124">ye</word>
+    <word word_id="SB_J_917.7.125" VARD_fscore_0.1_threshold_0="may" VARD_fscore_0.1_threshold_25="may" VARD_fscore_0.1_threshold_50="may" VARD_fscore_0.5_threshold_0="may" VARD_fscore_0.5_threshold_25="may" VARD_fscore_0.5_threshold_50="may" VARD_fscore_0.5_threshold_75="may" VARD_fscore_1.0_threshold_0="may" VARD_fscore_1.0_threshold_25="may" VARD_fscore_1.0_threshold_50="may" VARD_fscore_2.0_threshold_0="may" VARD_fscore_2.0_threshold_25="may" VARD_fscore_2.0_threshold_50="may" VARD_fscore_2.0_threshold_75="may">maie</word>
+    <word word_id="SB_J_917.7.126">spare</word>
+    <word word_id="SB_J_917.7.127">it</word>
+    <word word_id="SB_J_917.7.128" VARD_fscore_0.1_threshold_0="any" VARD_fscore_0.1_threshold_25="any" VARD_fscore_0.5_threshold_0="any" VARD_fscore_0.5_threshold_25="any" VARD_fscore_0.5_threshold_50="any" VARD_fscore_1.0_threshold_0="any" VARD_fscore_1.0_threshold_25="any" VARD_fscore_2.0_threshold_0="any" VARD_fscore_2.0_threshold_25="any" VARD_fscore_2.0_threshold_50="any" TIME="B">anny</word>
+    <word word_id="SB_J_917.7.129" VARD_fscore_0.1_threshold_0="while," VARD_fscore_0.1_threshold_25="while," VARD_fscore_0.1_threshold_50="while," VARD_fscore_0.5_threshold_0="while," VARD_fscore_0.5_threshold_25="while," VARD_fscore_0.5_threshold_50="while," VARD_fscore_0.5_threshold_75="while," VARD_fscore_1.0_threshold_0="while," VARD_fscore_1.0_threshold_25="while," VARD_fscore_1.0_threshold_50="while," VARD_fscore_2.0_threshold_0="while," VARD_fscore_2.0_threshold_25="while," VARD_fscore_2.0_threshold_50="while," VARD_fscore_2.0_threshold_75="while," TIME="I">whyle,</word>
+    <word word_id="SB_J_917.7.130">ye</word>
+    <word word_id="SB_J_917.7.131" VARD_fscore_0.1_threshold_0="may" VARD_fscore_0.1_threshold_25="may" VARD_fscore_0.1_threshold_50="may" VARD_fscore_0.5_threshold_0="may" VARD_fscore_0.5_threshold_25="may" VARD_fscore_0.5_threshold_50="may" VARD_fscore_0.5_threshold_75="may" VARD_fscore_1.0_threshold_0="may" VARD_fscore_1.0_threshold_25="may" VARD_fscore_1.0_threshold_50="may" VARD_fscore_2.0_threshold_0="may" VARD_fscore_2.0_threshold_25="may" VARD_fscore_2.0_threshold_50="may" VARD_fscore_2.0_threshold_75="may">maie</word>
+    <word word_id="SB_J_917.7.132" VARD_fscore_0.1_threshold_0="still" VARD_fscore_0.5_threshold_0="still" VARD_fscore_0.5_threshold_25="still" VARD_fscore_0.5_threshold_50="still" VARD_fscore_1.0_threshold_0="still" VARD_fscore_2.0_threshold_0="still" VARD_fscore_2.0_threshold_25="still">stille</word>
+    <word word_id="SB_J_917.7.133">do</word>
+    <word word_id="SB_J_917.7.134">us</word>
+    <word word_id="SB_J_917.7.135">pleasure,</word>
+    <word word_id="SB_J_917.7.136">and</word>
+    <word word_id="SB_J_917.7.137">I</word>
+    <word word_id="SB_J_917.7.138">will</word>
+    <word word_id="SB_J_917.7.139">provide</word>
+    <word word_id="SB_J_917.7.140" VARD_fscore_0.1_threshold_0="shocks" VARD_fscore_0.5_threshold_0="psychs" VARD_fscore_1.0_threshold_0="shocks" VARD_fscore_2.0_threshold_0="psychs">sochs</word>
+    <word word_id="SB_J_917.7.141" VARD_fscore_0.1_threshold_0="money" VARD_fscore_0.1_threshold_25="money" VARD_fscore_0.1_threshold_50="money" VARD_fscore_0.5_threshold_0="money" VARD_fscore_0.5_threshold_25="money" VARD_fscore_0.5_threshold_50="money" VARD_fscore_1.0_threshold_0="money" VARD_fscore_1.0_threshold_25="money" VARD_fscore_1.0_threshold_50="money" VARD_fscore_2.0_threshold_0="money" VARD_fscore_2.0_threshold_25="money" VARD_fscore_2.0_threshold_50="money">monnei</word>
+    <word word_id="SB_J_917.7.142">for</word>
+    <word word_id="SB_J_917.7.143">you</word>
+    <word word_id="SB_J_917.7.144">that</word>
+    <word word_id="SB_J_917.7.145">ye</word>
+    <word word_id="SB_J_917.7.146" VARD_fscore_0.1_threshold_0="shall" VARD_fscore_0.1_threshold_25="shall" VARD_fscore_0.1_threshold_50="shall" VARD_fscore_0.5_threshold_0="shall" VARD_fscore_0.5_threshold_25="shall" VARD_fscore_0.5_threshold_50="shall" VARD_fscore_1.0_threshold_0="shall" VARD_fscore_1.0_threshold_25="shall" VARD_fscore_1.0_threshold_50="shall" VARD_fscore_2.0_threshold_0="shall" VARD_fscore_2.0_threshold_25="shall" VARD_fscore_2.0_threshold_50="shall">shal</word>
+    <word word_id="SB_J_917.7.147">not</word>
+    <word word_id="SB_J_917.7.148">lose</word>
+    <word word_id="SB_J_917.7.149">by</word>
+    <word word_id="SB_J_917.7.150">the</word>
+    <word word_id="SB_J_917.7.151" VARD_fscore_0.1_threshold_0="dout" VARD_fscore_0.1_threshold_25="dout" VARD_fscore_0.5_threshold_0="dout" VARD_fscore_0.5_threshold_25="dout" VARD_fscore_0.5_threshold_50="dout" VARD_fscore_1.0_threshold_0="dout" VARD_fscore_1.0_threshold_25="dout" VARD_fscore_2.0_threshold_0="dout" VARD_fscore_2.0_threshold_25="dout">dowte</word>
+    <word word_id="SB_J_917.7.152">which</word>
+    <word word_id="SB_J_917.7.153" VARD_fscore_0.1_threshold_0="seems" VARD_fscore_0.1_threshold_25="seems" VARD_fscore_0.1_threshold_50="seems" VARD_fscore_0.5_threshold_0="seems" VARD_fscore_0.5_threshold_25="seems" VARD_fscore_0.5_threshold_50="seems" VARD_fscore_0.5_threshold_75="seems" VARD_fscore_1.0_threshold_0="seems" VARD_fscore_1.0_threshold_25="seems" VARD_fscore_1.0_threshold_50="seems" VARD_fscore_2.0_threshold_0="seems" VARD_fscore_2.0_threshold_25="seems" VARD_fscore_2.0_threshold_50="seems">seameth</word>
+    <word word_id="SB_J_917.7.154">to</word>
+    <word word_id="SB_J_917.7.155">be</word>
+    <word word_id="SB_J_917.7.156">of</word>
+    <word word_id="SB_J_917.7.157">the</word>
+    <word word_id="SB_J_917.7.158" VARD_fscore_0.1_threshold_0="vow" VARD_fscore_0.5_threshold_0="vexed" VARD_fscore_1.0_threshold_0="vow" VARD_fscore_2.0_threshold_0="vow" PRICE="B">vjd</word>
+    <word word_id="SB_J_917.7.159">to</word>
+    <word word_id="SB_J_917.7.160" VARD_fscore_0.1_threshold_0="comma" VARD_fscore_0.1_threshold_25="comma" VARD_fscore_0.5_threshold_0="comma" VARD_fscore_0.5_threshold_25="comma" VARD_fscore_0.5_threshold_50="comma" VARD_fscore_1.0_threshold_0="comma" VARD_fscore_1.0_threshold_25="comma" VARD_fscore_2.0_threshold_0="comma" VARD_fscore_2.0_threshold_25="comma">comme</word>
+    <word word_id="SB_J_917.7.161">to</word>
+    <word word_id="SB_J_917.7.162" VARD_fscore_0.1_threshold_0="less" VARD_fscore_0.1_threshold_25="less" VARD_fscore_0.1_threshold_50="less" VARD_fscore_0.5_threshold_0="less" VARD_fscore_0.5_threshold_25="less" VARD_fscore_0.5_threshold_50="less" VARD_fscore_0.5_threshold_75="less" VARD_fscore_1.0_threshold_0="less" VARD_fscore_1.0_threshold_25="less" VARD_fscore_1.0_threshold_50="less" VARD_fscore_2.0_threshold_0="less" VARD_fscore_2.0_threshold_25="less" VARD_fscore_2.0_threshold_50="less" VARD_fscore_2.0_threshold_75="less">lesse</word>
+    <word word_id="SB_J_917.7.163" VARD_fscore_0.1_threshold_0="value." VARD_fscore_0.1_threshold_25="value." VARD_fscore_0.1_threshold_50="value." VARD_fscore_0.5_threshold_0="value." VARD_fscore_0.5_threshold_25="value." VARD_fscore_0.5_threshold_50="value." VARD_fscore_0.5_threshold_75="value." VARD_fscore_1.0_threshold_0="value." VARD_fscore_1.0_threshold_25="value." VARD_fscore_1.0_threshold_50="value." VARD_fscore_2.0_threshold_0="value." VARD_fscore_2.0_threshold_25="value." VARD_fscore_2.0_threshold_50="value." VARD_fscore_2.0_threshold_75="value.">valewe.</word>
+    <word word_id="SB_J_917.7.164">I</word>
+    <word word_id="SB_J_917.7.165">wold</word>
+    <word word_id="SB_J_917.7.166">have</word>
+    <word word_id="SB_J_917.7.167" VARD_fscore_0.1_threshold_0="comma" VARD_fscore_0.1_threshold_25="comma" VARD_fscore_0.5_threshold_0="comma" VARD_fscore_0.5_threshold_25="comma" VARD_fscore_0.5_threshold_50="comma" VARD_fscore_1.0_threshold_0="comma" VARD_fscore_1.0_threshold_25="comma" VARD_fscore_2.0_threshold_0="comma" VARD_fscore_2.0_threshold_25="comma">comme</word>
+    <word word_id="SB_J_917.7.168">unto</word>
+    <word word_id="SB_J_917.7.169">you</word>
+    <word word_id="SB_J_917.7.170">myself,</word>
+    <word word_id="SB_J_917.7.171">but</word>
+    <word word_id="SB_J_917.7.172">having</word>
+    <word word_id="SB_J_917.7.173" VARD_fscore_0.1_threshold_0="much" VARD_fscore_0.1_threshold_25="much" VARD_fscore_0.1_threshold_50="much" VARD_fscore_0.5_threshold_0="much" VARD_fscore_0.5_threshold_25="much" VARD_fscore_0.5_threshold_50="much" VARD_fscore_0.5_threshold_75="much" VARD_fscore_1.0_threshold_0="much" VARD_fscore_1.0_threshold_25="much" VARD_fscore_1.0_threshold_50="much" VARD_fscore_2.0_threshold_0="much" VARD_fscore_2.0_threshold_25="much" VARD_fscore_2.0_threshold_50="much" VARD_fscore_2.0_threshold_75="much">moche</word>
+    <word word_id="SB_J_917.7.174" VARD_fscore_0.1_threshold_0="business" VARD_fscore_0.1_threshold_25="business" VARD_fscore_0.1_threshold_50="business" VARD_fscore_0.5_threshold_0="business" VARD_fscore_0.5_threshold_25="business" VARD_fscore_0.5_threshold_50="business" VARD_fscore_0.5_threshold_75="business" VARD_fscore_1.0_threshold_0="business" VARD_fscore_1.0_threshold_25="business" VARD_fscore_1.0_threshold_50="business" VARD_fscore_2.0_threshold_0="business" VARD_fscore_2.0_threshold_25="business" VARD_fscore_2.0_threshold_50="business" VARD_fscore_2.0_threshold_75="business">busines</word>
+    <word word_id="SB_J_917.7.175">I</word>
+    <word word_id="SB_J_917.7.176">must</word>
+    <word word_id="SB_J_917.7.177" VARD_fscore_0.1_threshold_0="pray" VARD_fscore_0.1_threshold_25="pray" VARD_fscore_0.1_threshold_50="pray" VARD_fscore_0.5_threshold_0="pray" VARD_fscore_0.5_threshold_25="pray" VARD_fscore_0.5_threshold_50="pray" VARD_fscore_0.5_threshold_75="pray" VARD_fscore_1.0_threshold_0="pray" VARD_fscore_1.0_threshold_25="pray" VARD_fscore_1.0_threshold_50="pray" VARD_fscore_2.0_threshold_0="pray" VARD_fscore_2.0_threshold_25="pray" VARD_fscore_2.0_threshold_50="pray" VARD_fscore_2.0_threshold_75="pray">praie</word>
+    <word word_id="SB_J_917.7.178">you</word>
+    <word word_id="SB_J_917.7.179">to</word>
+    <word word_id="SB_J_917.7.180">hold</word>
+    <word word_id="SB_J_917.7.181">me</word>
+    <word word_id="SB_J_917.7.182">excused,</word>
+    <word word_id="SB_J_917.7.183">trusting</word>
+    <word word_id="SB_J_917.7.184" VARD_fscore_0.1_threshold_0="bettor" VARD_fscore_0.1_threshold_25="bettor" VARD_fscore_0.1_threshold_50="bettor" VARD_fscore_0.5_threshold_0="bettor" VARD_fscore_0.5_threshold_25="bettor" VARD_fscore_0.5_threshold_50="bettor" VARD_fscore_1.0_threshold_0="bettor" VARD_fscore_1.0_threshold_25="bettor" VARD_fscore_1.0_threshold_50="bettor" VARD_fscore_2.0_threshold_0="bettor" VARD_fscore_2.0_threshold_25="bettor" VARD_fscore_2.0_threshold_50="bettor">betore</word>
+    <word word_id="SB_J_917.7.185" DATE="B">Easter</word>
+    <word word_id="SB_J_917.7.186">to</word>
+    <word word_id="SB_J_917.7.187" VARD_fscore_0.1_threshold_0="comma" VARD_fscore_0.1_threshold_25="comma" VARD_fscore_0.5_threshold_0="comma" VARD_fscore_0.5_threshold_25="comma" VARD_fscore_0.5_threshold_50="comma" VARD_fscore_1.0_threshold_0="comma" VARD_fscore_1.0_threshold_25="comma" VARD_fscore_2.0_threshold_0="comma" VARD_fscore_2.0_threshold_25="comma">comme</word>
+    <word word_id="SB_J_917.7.188">unto</word>
+    <word word_id="SB_J_917.7.189">you,</word>
+    <word word_id="SB_J_917.7.190">and</word>
+    <word word_id="SB_J_917.7.191">if</word>
+    <word word_id="SB_J_917.7.192">you</word>
+    <word word_id="SB_J_917.7.193" VARD_fscore_0.1_threshold_0="will" VARD_fscore_0.1_threshold_25="will" VARD_fscore_0.1_threshold_50="will" VARD_fscore_0.5_threshold_0="will" VARD_fscore_0.5_threshold_25="will" VARD_fscore_0.5_threshold_50="will" VARD_fscore_1.0_threshold_0="will" VARD_fscore_1.0_threshold_25="will" VARD_fscore_1.0_threshold_50="will" VARD_fscore_2.0_threshold_0="will" VARD_fscore_2.0_threshold_25="will" VARD_fscore_2.0_threshold_50="will">wull</word>
+    <word word_id="SB_J_917.7.194">be</word>
+    <word word_id="SB_J_917.7.195">to</word>
+    <word word_id="SB_J_917.7.196" VARD_fscore_0.1_threshold_0="feet," VARD_fscore_0.1_threshold_25="feet," VARD_fscore_0.5_threshold_0="said," VARD_fscore_0.5_threshold_25="said," VARD_fscore_0.5_threshold_50="said," VARD_fscore_1.0_threshold_0="feet," VARD_fscore_1.0_threshold_25="feet," VARD_fscore_2.0_threshold_0="feet," VARD_fscore_2.0_threshold_25="feet,">seit,</word>
+    <word word_id="SB_J_917.7.197">to</word>
+    <word word_id="SB_J_917.7.198">be</word>
+    <word word_id="SB_J_917.7.199">your</word>
+    <word word_id="SB_J_917.7.200" VARD_fscore_0.1_threshold_0="merchant" VARD_fscore_0.1_threshold_25="merchant" VARD_fscore_0.1_threshold_50="merchant" VARD_fscore_0.5_threshold_0="merchant" VARD_fscore_0.5_threshold_25="merchant" VARD_fscore_0.5_threshold_50="merchant" VARD_fscore_0.5_threshold_75="merchant" VARD_fscore_1.0_threshold_0="merchant" VARD_fscore_1.0_threshold_25="merchant" VARD_fscore_1.0_threshold_50="merchant" VARD_fscore_2.0_threshold_0="merchant" VARD_fscore_2.0_threshold_25="merchant" VARD_fscore_2.0_threshold_50="merchant" VARD_fscore_2.0_threshold_75="merchant">marchaunt</word>
+    <word word_id="SB_J_917.7.201" VARD_fscore_0.1_threshold_0="again." VARD_fscore_0.1_threshold_25="again." VARD_fscore_0.1_threshold_50="again." VARD_fscore_0.5_threshold_0="again." VARD_fscore_0.5_threshold_25="again." VARD_fscore_0.5_threshold_50="again." VARD_fscore_0.5_threshold_75="again." VARD_fscore_1.0_threshold_0="again." VARD_fscore_1.0_threshold_25="again." VARD_fscore_1.0_threshold_50="again." VARD_fscore_2.0_threshold_0="again." VARD_fscore_2.0_threshold_25="again." VARD_fscore_2.0_threshold_50="again." VARD_fscore_2.0_threshold_75="again.">againe.</word>
+    <word word_id="SB_J_917.7.202">So</word>
+    <word word_id="SB_J_917.7.203" VARD_fscore_0.1_threshold_0="novelty" VARD_fscore_0.5_threshold_0="knelt" VARD_fscore_0.5_threshold_25="knelt" VARD_fscore_1.0_threshold_0="novelty" VARD_fscore_2.0_threshold_0="knelt">knowilth</word>
+    <word word_id="SB_J_917.7.204" GOD="B">God,</word>
+    <word word_id="SB_J_917.7.205">Who</word>
+    <word word_id="SB_J_917.7.206" VARD_fscore_0.1_threshold_0="keep" VARD_fscore_0.1_threshold_25="keep" VARD_fscore_0.1_threshold_50="keep" VARD_fscore_0.5_threshold_0="keep" VARD_fscore_0.5_threshold_25="keep" VARD_fscore_0.5_threshold_50="keep" VARD_fscore_1.0_threshold_0="keep" VARD_fscore_1.0_threshold_25="keep" VARD_fscore_1.0_threshold_50="keep" VARD_fscore_2.0_threshold_0="keep" VARD_fscore_2.0_threshold_25="keep" VARD_fscore_2.0_threshold_50="keep">kepe</word>
+    <word word_id="SB_J_917.7.207">you</word>
+    <word word_id="SB_J_917.7.208">and</word>
+    <word word_id="SB_J_917.7.209">send</word>
+    <word word_id="SB_J_917.7.210">you</word>
+    <word word_id="SB_J_917.7.211" VARD_fscore_0.1_threshold_0="health." VARD_fscore_0.5_threshold_0="health." VARD_fscore_0.5_threshold_25="health." VARD_fscore_0.5_threshold_50="health." VARD_fscore_1.0_threshold_0="health." VARD_fscore_2.0_threshold_0="health." VARD_fscore_2.0_threshold_25="health.">helthe.</word>
+    <word word_id="SB_J_917.8.0">Your</word>
+    <word word_id="SB_J_917.8.1" VARD_fscore_0.1_threshold_0="cousin," VARD_fscore_0.1_threshold_25="cousin," VARD_fscore_0.1_threshold_50="cousin," VARD_fscore_0.5_threshold_0="cousin," VARD_fscore_0.5_threshold_25="cousin," VARD_fscore_0.5_threshold_50="cousin," VARD_fscore_1.0_threshold_0="cousin," VARD_fscore_1.0_threshold_25="cousin," VARD_fscore_1.0_threshold_50="cousin," VARD_fscore_2.0_threshold_0="cousin," VARD_fscore_2.0_threshold_25="cousin," VARD_fscore_2.0_threshold_50="cousin,">cossen,</word>
+    <word word_id="SB_J_917.9.0" NAME="B">John</word>
+    <word word_id="SB_J_917.9.1" NAME="I">Johnson.</word>
+  </letter>
+  <VARD>
+    <VARD_count VARD_fscore_0.1_threshold_0="64" VARD_fscore_0.5_threshold_0="64" VARD_fscore_1.0_threshold_0="64" VARD_fscore_1.5_threshold_0="64" VARD_fscore_1.9_threshold_0="64" VARD_fscore_2.0_threshold_0="64" VARD_fscore_0.5_threshold_25="60" VARD_fscore_2.0_threshold_25="56" VARD_fscore_0.5_threshold_50="53" VARD_fscore_0.1_threshold_25="52" VARD_fscore_1.0_threshold_25="52" VARD_fscore_1.5_threshold_25="52" VARD_fscore_1.9_threshold_25="52" VARD_fscore_2.0_threshold_50="43" VARD_fscore_0.1_threshold_50="40" VARD_fscore_1.0_threshold_50="40" VARD_fscore_1.5_threshold_50="40" VARD_fscore_1.9_threshold_50="40" VARD_fscore_0.5_threshold_75="27" VARD_fscore_2.0_threshold_75="26"/>
+    <VARD_unicity VARD_fscore_1.9_threshold_50="N" VARD_fscore_1.0_threshold_25="Y" VARD_fscore_1.5_threshold_0="N" VARD_fscore_0.1_threshold_25="Y" VARD_fscore_1.5_threshold_25="N" VARD_fscore_2.0_threshold_75="Y" VARD_fscore_1.9_threshold_25="N" VARD_fscore_1.0_threshold_50="Y" VARD_fscore_2.0_threshold_50="Y" VARD_fscore_0.5_threshold_50="Y" VARD_fscore_0.1_threshold_50="Y" VARD_fscore_0.5_threshold_25="Y" VARD_fscore_1.9_threshold_0="N" VARD_fscore_2.0_threshold_25="Y" VARD_fscore_0.5_threshold_0="Y" VARD_fscore_0.5_threshold_75="Y" VARD_fscore_1.0_threshold_0="Y" VARD_fscore_1.5_threshold_50="N" VARD_fscore_0.1_threshold_0="Y" VARD_fscore_2.0_threshold_0="Y"/>
+  </VARD>
+</root>
