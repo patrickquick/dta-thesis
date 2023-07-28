@@ -1,4 +1,4 @@
-### Digital Text Analysis Master's Thesis Repository
+## Digital Text Analysis Master's Thesis Repository
 ---
 - **raw_data**: Contains the original digitised letters, metadata, and annotations.
 - **create_corpus_vard**: Contains the files used for creating the master corpus, NER subcorpora, and for VARD processing.
