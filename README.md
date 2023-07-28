@@ -5,7 +5,7 @@
 - **create_corpus_vard**: Contains the files used for the creation of the corpus, VARD processing, and creation of the subcorpora.
 ---
 - **data**: Contains the subcorpora prepared for NER.
-- **preprocessing** file for creating the subcorpora prepared for NER
-- **my_functions** file containing common functions
+- **preprocessing**: File for creating the subcorpora prepared for NER.
+- **my_functions**: File containing common functions.
 ---
 
