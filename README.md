@@ -7,5 +7,6 @@
 - **data**: Contains the subcorpora prepared for NER.
 - **preprocessing**: File for creating the subcorpora prepared for NER.
 - **my_functions**: File containing common functions.
+- **analysis**: File containing analysis of corpus, subcorpora, and VARD processing
 ---
 
