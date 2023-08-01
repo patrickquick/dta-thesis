@@ -9,6 +9,6 @@
 - **baselines**: File containing baseline models and evaluations.
 - **crf**: Contains the CRF modelling and evaluations.
 - **neural**: Contains the transformer model fine-tuning and evaluations.
-- **best_models**: Contains the best-performing model for each named entity.
+- **best_models**: Contains the best-performing model for each named entity (`pytorch_model.bin` files are stored locally).
 - **error_analysis**: Contains the files used for error analysis of the best-performing models.
 
